@@ -1,0 +1,13 @@
+D:\XayDungClassAnimal\bin\Debug\netcoreapp3.1\XayDungClassAnimal.exe
+D:\XayDungClassAnimal\bin\Debug\netcoreapp3.1\XayDungClassAnimal.deps.json
+D:\XayDungClassAnimal\bin\Debug\netcoreapp3.1\XayDungClassAnimal.runtimeconfig.json
+D:\XayDungClassAnimal\bin\Debug\netcoreapp3.1\XayDungClassAnimal.runtimeconfig.dev.json
+D:\XayDungClassAnimal\bin\Debug\netcoreapp3.1\XayDungClassAnimal.dll
+D:\XayDungClassAnimal\bin\Debug\netcoreapp3.1\XayDungClassAnimal.pdb
+D:\XayDungClassAnimal\obj\Debug\netcoreapp3.1\XayDungClassAnimal.csprojAssemblyReference.cache
+D:\XayDungClassAnimal\obj\Debug\netcoreapp3.1\XayDungClassAnimal.AssemblyInfoInputs.cache
+D:\XayDungClassAnimal\obj\Debug\netcoreapp3.1\XayDungClassAnimal.AssemblyInfo.cs
+D:\XayDungClassAnimal\obj\Debug\netcoreapp3.1\XayDungClassAnimal.csproj.CoreCompileInputs.cache
+D:\XayDungClassAnimal\obj\Debug\netcoreapp3.1\XayDungClassAnimal.dll
+D:\XayDungClassAnimal\obj\Debug\netcoreapp3.1\XayDungClassAnimal.pdb
+D:\XayDungClassAnimal\obj\Debug\netcoreapp3.1\XayDungClassAnimal.genruntimeconfig.cache
